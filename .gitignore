@@ -1,0 +1,10 @@
+# Editor / local history
+.history/
+
+# KiCad backup and temporary files
+*.bak
+*-backups/
+*.lck
+*~
+_autosave-*
+fp-info-cache
